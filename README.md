@@ -1,4 +1,4 @@
-# Mammographic_Mass_Dataset_NullValues (This dataset has null values)
+# Mammographic_Mass_Dataset
 
 ## Dataset Description:
 Mammography is the most effective method for breast cancer screening available today. However, the low positive predictive value of breast biopsy resulting from mammogram interpretation leads to approximately 70% unnecessary biopsies with benign outcomes. To reduce the high number of unnecessary breast biopsies, several computer-aided diagnoses (CAD) systems have been proposed in the last years. These systems help physicians in their decision to perform a breast biopsy on a suspicious lesion seen in a mammogram or to perform a short-term follow-up examination instead.
@@ -10,11 +10,6 @@ This data set can be used to predict the severity (benign or malignant) of a mam
 3. Shape: mass shape: round=1 oval=2 lobular=3 irregular=4 (nominal)
 4. Margin: mass margin: circumscribed=1 microlobulated=2 obscured=3 ill-defined=4 spiculated=5 (nominal) 5. Density: mass density high=1 iso=2 low=3 fat-containing=4 (ordinal)
 6. Severity: benign=0 or malignant=1 (binominal, goal field!)
-
-## Instructions:
-a. You can use any libraries of your choice in python.
-b. Provide the code in a notebook with the format Your_Name.ipynb
-c. The notebook should run without errors and should also display outputs and visualizations.
 
 ## Evaluation Task:
 Download the dataset from attached file and perform the following tasks:
